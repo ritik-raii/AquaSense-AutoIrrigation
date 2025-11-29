@@ -41,11 +41,9 @@ Pump connected through relay switching
 
 ---
 
-## 📷 Media Preview (Auto-Showing on GitHub)
-Place images in `/assets` then link like:    + Auto-learning irrigation schedule (ML based)
-}
+## 📷 Media Preview 
 
-/*───────────────────────────────────────────────────────────────*/
+![System Setup](Assets/IMG_20251129_000058.jpg)
 
 STATUS :: COMPLETE
 AquaSense stands ready. Drop into your garden,
